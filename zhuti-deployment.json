@@ -1,0 +1,19 @@
+{
+  "app": "zhuti-real-estate-practice",
+  "buildVersion": "b4ecb10f53e179d5a8c7",
+  "files": [
+    ".nojekyll",
+    "assets/index-CiwSBQ9V.js",
+    "assets/index-Dzk4zFhs.css",
+    "favicon.svg",
+    "icons/apple-touch-icon.png",
+    "icons/icon-192.png",
+    "icons/icon-512.png",
+    "icons/icon-maskable-512.png",
+    "index.html",
+    "manifest.webmanifest",
+    "sw.js"
+  ],
+  "notes": 3191,
+  "delivery": "github-pages-branch"
+}
