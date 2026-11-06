@@ -1,6 +1,6 @@
 /* Generated from the exact production assets. No user data is cached. */
-const VERSION = "b4ecb10f53e179d5a8c7";
-const FILES = ["assets/index-CiwSBQ9V.js","assets/index-Dzk4zFhs.css","favicon.svg","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","index.html","manifest.webmanifest"];
+const VERSION = "b2864673ba9a179bf584";
+const FILES = ["assets/index-BA_MUzpp.js","assets/index-pj3d2_yR.css","favicon.svg","icons/apple-touch-icon.png","icons/icon-192.png","icons/icon-512.png","icons/icon-maskable-512.png","index.html","manifest.webmanifest"];
 const SCOPE = new URL(self.registration.scope);
 const PREFIX = 'zhuti-pwa-' + encodeURIComponent(SCOPE.pathname) + '-';
 const CACHE = PREFIX + VERSION;
